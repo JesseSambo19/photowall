@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
 import Title from "./Title";
 import PhotoWall from "./PhotoWall";
-import { func } from 'prop-types';
+// import { func } from 'prop-types';
 import AddPhoto from './AddPhoto';
-import {Route, Router} from "react-router-dom";
+import {Route} from "react-router-dom";
+// import {Route, Router} from "react-router-dom";
 
 
 class Main extends Component {
